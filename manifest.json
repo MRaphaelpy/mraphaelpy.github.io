@@ -1,6 +1,6 @@
 {
-    "name": "masterclass_app",
-    "short_name": "masterclass_app",
+    "name": "portifolio",
+    "short_name": "portifolio",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
