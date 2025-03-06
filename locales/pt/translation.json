@@ -1,0 +1,179 @@
+{
+    "hero": {
+        "title": "Oi, eu sou Raphael :)",
+        "description": "Desenvolvedor full-stack e mobile, com expertise em criar soluções completas e eficientes. Entre em contato se quiser saber mais!",
+        "contactBtn": "Entre em Contato",
+        "resumeBtn": "Baixar Currículo"
+    },
+    "about": {
+        "title": "Sobre",
+        "frontendTitle": "Desenvolvedor Frontend",
+        "frontendDescription": "Sou um desenvolvedor frontend com experiência em construir sites responsivos e otimizados",
+        "backendTitle": "Desenvolvedor Backend",
+        "backendDescription": "Tenho experiência em desenvolver sistemas de back-end rápidos e otimizados e APIs",
+        "uiTitle": "Designer de UI",
+        "uiDescription": "Desenhei várias páginas de destino e criei sistemas de design também"
+    },
+    "experience": {
+        "title": "Experiência",
+        "skills": [
+            {
+                "title": "React",
+                "imageSrc": "skills/react.png"
+            },
+            {
+                "title": "Node",
+                "imageSrc": "skills/node.png"
+            },
+            {
+                "title": "Flutter/Dart",
+                "imageSrc": "skills/flutter.png"
+            },
+            {
+                "title": "Java",
+                "imageSrc": "skills/java.png"
+            },
+            {
+                "title": "Python",
+                "imageSrc": "skills/python.png"
+            },
+            {
+                "title": "Kotlin",
+                "imageSrc": "skills/kotlin.png"
+            },
+            {
+                "title": "PHP",
+                "imageSrc": "skills/php.png"
+            },
+            {
+                "title": "MongoDB",
+                "imageSrc": "skills/mongodb.png"
+            }
+        ],
+        "history": [
+            {
+                "role": "Desenvolvedor de Software",
+                "organisation": "CI&T",
+                "startDate": "03/2025",
+                "endDate": "Presente",
+                "imageSrc": "history/ciandt.png",
+                "experiences": [
+                    "Desenvolvedor front-end",
+                    "Desenvolvedor back-end"
+                ]
+            },
+            {
+                "role": "Minerador de Dados",
+                "organisation": "Univasf",
+                "startDate": "03/2023",
+                "endDate": "08/2023",
+                "imageSrc": "history/univasf.png",
+                "experiences": [
+                    "Mineração de dados com Weka",
+                    "Mineração de dados com Java"
+                ]
+            },
+            {
+                "role": "Minerador de Dados",
+                "organisation": "Cns Solar",
+                "startDate": "03/2023",
+                "endDate": "08/2023",
+                "imageSrc": "history/cns.png",
+                "experiences": [
+                    "Mineração de dados com Weka",
+                    "Tratamento de dados",
+                    "Análise de dados"
+                ]
+            }
+        ]
+    },
+    "project": {
+        "title": "Projetos",
+        "viewMore": "Ver Mais"
+    },
+    "projects": [
+        {
+            "viewMore": "Ver Mais",
+            "title": "Academic Hub",
+            "imageSrc": "projects/project.png",
+            "description": "O AcademicHUB é uma aplicação desenvolvida pela turma 2023.2 de Programação WEB da UNIVASF",
+            "skills": [
+                "React",
+                "Laravel",
+                "PHP"
+            ],
+            "demo": "",
+            "source": "https://github.com/Matheusouza2/academic_hub"
+        },
+        {
+            "title": "FinTrack",
+            "imageSrc": "projects/project.png",
+            "description": "O FinTrack é uma aplicativo desenvolvido pela turma 2024.1 de Programação Mobile da UNIVASF.",
+            "skills": [
+                "React",
+                "Express",
+                "Node"
+            ],
+            "demo": "https://www.figma.com/design/jBZUmc6F7eeTcAdlLzzGDM/FinTrack?node-id=6-373&node-type=canvas",
+            "source": "https://github.com/Matheusouza2/fintrack/"
+        },
+        {
+            "title": "FTrack",
+            "imageSrc": "projects/project.png",
+            "description": "FTrack é um aplicativo Flutter de rastreio que utiliza a API disponível em chipytux/correiosApi.",
+            "skills": [
+                "Flutter",
+                "Api Consumer"
+            ],
+            "demo": "",
+            "source": "https://github.com/MRaphaelpy/Ftrack"
+        }
+    ],
+    "contact": {
+        "title": "Contatos",
+        "description": "Entre em contato comigo se quiser saber mais sobre mim ou sobre o que eu faço",
+        "email": "mraphael.py@gmail.com",
+        "linkedin": "linkedin.com/in/mraphaelpy",
+        "github": "github.com/MRaphaelpy"
+    },
+    "footer": {
+        "title": "Marcos Raphael © 2025",
+        "description": "Desenvolvido com React e i18next"
+    },
+    "navbar": {
+        "about": "Sobre",
+        "experience": "Experiência",
+        "projects": "Projetos",
+        "contact": "Contato",
+        "language": {
+            "pt": "PT",
+            "en": "EN"
+        }
+    },
+    "interests": {
+        "title": "Interesses",
+        "items": [
+            {
+                "title": "Programação",
+                "description": "Adoro criar soluções eficientes e inovadoras.",
+                "imageSrc": "interests/programming.png"
+            },
+            {
+                "title": "Música",
+                "description": "Gosto muito de ouvir música.",
+                "imageSrc": "interests/music.png"
+            },
+            {
+                "title": "Esportes",
+                "description": "Pratico corrida regularmente.",
+                "imageSrc": "interests/sports.png"
+            }
+        ]
+    },
+    "alerts": {
+        "success": "Sucesso",
+        "error": "Erro",
+        "warning": "Aviso",
+        "criacao": "Em construção"
+    }
+}
