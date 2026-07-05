@@ -126,7 +126,20 @@
       ],
       "demo": "",
       "source": "https://github.com/MRaphaelpy/Ftrack"
-    }
+    },
+    {
+            "title": "Civitas",
+            "imageSrc": "projects/project.png",
+            "description": "Citizen participation platform for registering urban incidents with REST API, WhatsApp integration and Telegram integration",
+            "skills": [
+                "Java/Spring Boot",
+                "React",
+                "Docker",
+                "Api Consumer"
+            ],
+            "demo": "",
+            "source": "https://github.com/MRaphaelpy/Civitas"
+        }
   ],
   "contact": {
     "title": "Contact",
